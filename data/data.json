@@ -1,9 +1,74 @@
-{
-    "plat": "N 8438 EL",
-    "kendaraan": "Mobil",
-    "masuk": 1,
-    "keluar": 8,
-    "durasi": 7,
-    "member": "Non-Member",
-    "biaya": 23000
-}
+[
+    {
+        "plat": "DD 1234 XE",
+        "kendaraan": "Mobil",
+        "masuk": "1",
+        "keluar": "10",
+        "durasi": 9,
+        "member": "Member"
+    },
+    {
+        "plat": "N 8438 EL",
+        "kendaraan": "Mobil",
+        "masuk": "11",
+        "keluar": "13",
+        "durasi": 2,
+        "member": "Member"
+    },
+    {
+        "plat": "N 8438 EL",
+        "kendaraan": "Mobil",
+        "masuk": "11",
+        "keluar": "13",
+        "durasi": 2,
+        "member": "Member"
+    },
+    {
+        "plat": "said",
+        "kendaraan": "Mobil",
+        "masuk": "9",
+        "keluar": "13",
+        "durasi": 4,
+        "member": "Member"
+    },
+    {
+        "plat": "said",
+        "kendaraan": "Mobil",
+        "masuk": "7",
+        "keluar": "5",
+        "durasi": 22,
+        "member": "Member"
+    },
+    {
+        "plat": "tes",
+        "kendaraan": "Truk",
+        "masuk": "1",
+        "keluar": "4",
+        "durasi": 3,
+        "member": "Member"
+    },
+    {
+        "plat": "N 8438 EL",
+        "kendaraan": "Mobil",
+        "masuk": "10",
+        "keluar": "13",
+        "durasi": 3,
+        "member": "Non-Member"
+    },
+    {
+        "plat": "N 8438 EL",
+        "kendaraan": "Mobil",
+        "masuk": "10",
+        "keluar": "13",
+        "durasi": 3,
+        "member": "Non-Member"
+    },
+    {
+        "plat": "",
+        "kendaraan": "Mobil",
+        "masuk": "4",
+        "keluar": "9",
+        "durasi": 5,
+        "member": "Member"
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "plat": "N 8438 EL",
+    "kendaraan": "Mobil",
+    "masuk": 1,
+    "keluar": 8,
+    "durasi": 7,
+    "member": "Non-Member",
+    "biaya": 23000
+}
